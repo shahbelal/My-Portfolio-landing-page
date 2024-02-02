@@ -24,8 +24,8 @@ Happy coding and designing!
 
 ## Screenshots
 
-![App Screenshot](https://screenshot/Screenshot 1.png)
-![App Screenshot](https://screenshot/Screenshot 2.png)
-![App Screenshot](https://screenshot/Screenshot 3.png)
-![App Screenshot](https://screenshot/Screenshot 4.png)
+![App Screenshot](https://screenshot/Screenshot1.png)
+![App Screenshot](https://screenshot/Screenshot2.png)
+![App Screenshot](https://screenshot/Screenshot3.png)
+![App Screenshot](https://screenshot/Screenshot4.png)
 
