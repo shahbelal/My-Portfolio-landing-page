@@ -27,7 +27,7 @@ Happy coding and designing!
 
 ![App Screenshot](https://github.com/shahbelal/My-Portfolio-landing-page/blob/main/screenshot/Screenshot1.png)
 
-![App Screenshot](https://github.com/shahbelal/My-Portfolio-landing-page/blob/main/screensho/Screenshot2.png)
+![App Screenshot](https://github.com/shahbelal/My-Portfolio-landing-page/blob/main/screenshot/Screenshot2.png)
 
 ![App Screenshot](https://github.com/shahbelal/My-Portfolio-landing-page/blob/main/screenshot/Screenshot3.png)
 
