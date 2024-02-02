@@ -24,8 +24,12 @@ Happy coding and designing!
 
 ## Screenshots
 
-![App Screenshot](https://screenshot/Screenshot1.png)
-![App Screenshot](https://screenshot/Screenshot2.png)
-![App Screenshot](https://screenshot/Screenshot3.png)
-![App Screenshot](https://screenshot/Screenshot4.png)
+
+![App Screenshot](https://github.com/shahbelal/My-Portfolio-landing-page/blob/main/Snapshots/1.png)
+
+![App Screenshot](https://github.com/shahbelal/My-Portfolio-landing-page/blob/main/Snapshots/2.png)
+
+![App Screenshot](https://github.com/shahbelal/My-Portfolio-landing-page/blob/main/Snapshots/3.png)
+
+![App Screenshot](https://github.com/shahbelal/My-Portfolio-landing-page/blob/main/Snapshots/4.png)
 
