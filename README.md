@@ -25,11 +25,11 @@ Happy coding and designing!
 ## Screenshots
 
 
-![App Screenshot](https://github.com/shahbelal/My-Portfolio-landing-page/blob/main/screenshot/Screenshot1.png)
+![App Screenshot](https://github.com/shahbelal/My-Portfolio-landing-page/blob/main/screenshot/Screenshot 1.png)
 
-![App Screenshot](https://github.com/shahbelal/My-Portfolio-landing-page/blob/main/screensho/Screenshot2.png)
+![App Screenshot](https://github.com/shahbelal/My-Portfolio-landing-page/blob/main/screensho/Screenshot 2.png)
 
-![App Screenshot](https://github.com/shahbelal/My-Portfolio-landing-page/blob/main/screenshot/Screenshot3.png)
+![App Screenshot](https://github.com/shahbelal/My-Portfolio-landing-page/blob/main/screenshot/Screenshot 3.png)
 
-![App Screenshot](https://github.com/shahbelal/My-Portfolio-landing-page/blob/main/screenshot/Screenshot4.png)
+![App Screenshot](https://github.com/shahbelal/My-Portfolio-landing-page/blob/main/screenshot/Screenshot 4.png)
 
