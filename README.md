@@ -18,13 +18,6 @@ Here is the deployed static site:
 
 [Click Me!](https://shahbelal.github.io/My-Portfolio-landing-page/)
 
-» How to Use
-Clone the repository to your local machine.
-Open the index.html file in your preferred web browser.
-Explore the various sections to learn more about Mohd Shah Belal and his work.
-Feel free to fork this repository to create your own portfolio or use it as a reference for building a personal website. If you have any questions or suggestions, don't hesitate to reach out!
-
-Happy coding and designing!
 
 » These are some picture of portfolio
 
@@ -40,3 +33,10 @@ Happy coding and designing!
 
 ![App Screenshot](https://github.com/shahbelal/My-Portfolio-landing-page/blob/main/screenshot/Screenshot4.png)
 
+» How to Use
+• Clone the repository to your local machine.
+• Open the index.html file in your preferred web browser.
+• Explore the various sections to learn more about Mohd Shah Belal and his work.
+• Feel free to fork this repository to create your own portfolio or use it as a reference for building a personal website. If you have any questions or suggestions, don't hesitate to reach out!
+
+Happy coding and designing!
