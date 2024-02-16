@@ -1,5 +1,4 @@
- 
-» Mohd Shah Belal's Portfolio
+##  Mohd Shah Belal's Portfolio
 Welcome to the GitHub repository for Mohd Shah Belal's personal portfolio website. This repository houses the source code for a creative and visually appealing portfolio designed and developed by Mohd Shah Belal, showcasing his skills as a web developer and digital visual artist.
 
 » About the Project
@@ -11,6 +10,13 @@ Mohd Shah Belal's Portfolio is a single-page web application crafted with HTML, 
 •Skills Showcase: Highlights Mohd Shah Belal's skills as both a frontend developer and designer.
 •Projects Gallery: Showcases a collection of Mohd Shah Belal's projects with live site links for exploration.
 •Contact and Resume: Provides easy ways to get in touch with Mohd Shah Belal via email and access his resume.
+
+
+## Deployed Site
+
+Here is the deployed static site:
+
+[Click Me!](https://shahbelal.github.io/My-Portfolio-landing-page/)
 
 » How to Use
 Clone the repository to your local machine.
